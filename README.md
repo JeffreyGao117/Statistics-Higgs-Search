@@ -1,2 +1,7 @@
 # Phys434_Au20
-Jeffrey Gao
+
+Owner - Jeffrey Gao
+
+Partner - Weston Newcomb
+
+For lab files, refer to branchs.
