@@ -1,6 +1,6 @@
 # Phys434_Au20
 
-Owner - Jeffrey Gao
+Owner - Jeffrey Gao (jgao117@uw.edu 1760535)
 
 Partner - Weston Newcomb
 
