@@ -1,2 +1,2 @@
-# Phys434_Au20_Lab1
+# Phys434_Au20
 Jeffrey Gao
