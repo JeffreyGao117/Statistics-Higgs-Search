@@ -2,5 +2,3 @@
 
 Owner - Jeffrey Gao (jgao117@uw.edu)
 
-Partner - Weston Newcomb
-
