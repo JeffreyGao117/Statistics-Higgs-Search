@@ -1,7 +1,7 @@
 ## For UW course Phys 434 Au2020
 ### Application of computing in physics
 
-Use of probability distributions in considering significant/insignificant data given background data.
+Higgs Boson search: using Python, Jupyter notebooks, and SciPy, to apply statistical methods to process noisy data and determine significance of Atlas detector signals in simulated data. Use of probability distributions in considering significant/insignificant data given background data.
 
 Applied statistical concepts:
 - Bayes' theorem
